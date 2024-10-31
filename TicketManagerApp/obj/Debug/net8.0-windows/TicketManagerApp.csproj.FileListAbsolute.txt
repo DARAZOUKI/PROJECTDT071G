@@ -1,0 +1,14 @@
+C:\NEWPROJECTDT07G\TicketManagerApp\bin\Debug\net8.0-windows\TicketManagerApp.exe
+C:\NEWPROJECTDT07G\TicketManagerApp\bin\Debug\net8.0-windows\TicketManagerApp.deps.json
+C:\NEWPROJECTDT07G\TicketManagerApp\bin\Debug\net8.0-windows\TicketManagerApp.runtimeconfig.json
+C:\NEWPROJECTDT07G\TicketManagerApp\bin\Debug\net8.0-windows\TicketManagerApp.dll
+C:\NEWPROJECTDT07G\TicketManagerApp\bin\Debug\net8.0-windows\TicketManagerApp.pdb
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\TicketManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\TicketManagerApp.AssemblyInfoInputs.cache
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\TicketManagerApp.AssemblyInfo.cs
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\TicketManagerApp.csproj.CoreCompileInputs.cache
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\TicketManagerApp.dll
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\refint\TicketManagerApp.dll
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\TicketManagerApp.pdb
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\TicketManagerApp.genruntimeconfig.cache
+C:\NEWPROJECTDT07G\TicketManagerApp\obj\Debug\net8.0-windows\ref\TicketManagerApp.dll
